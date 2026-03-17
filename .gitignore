@@ -1,0 +1,49 @@
+# Системные файлы macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Временные файлы Microsoft Office
+~$*.docx
+*.tmp
+
+# Файлы Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение Python
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+myenv/
+.venv/
+
+# Файлы связанные с pip и установкой
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+
+# Файлы проекта
+Task 2.docx
+*.docx
+*.doc
+
+# Jupyter Notebook (если используете)
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE (по желанию)
+.vscode/
+.idea/
+*.sublime-*
